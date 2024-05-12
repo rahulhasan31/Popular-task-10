@@ -13,7 +13,7 @@ const [data, setData]=useState(null)
 const [formData, setFormData]=useState(false)
 
 useEffect(()=>{
-    fetch('./public/popular.json')
+    fetch('popular.json')
     .then(res=> res.json())
     .then(data=>
      
