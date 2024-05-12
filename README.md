@@ -2,7 +2,7 @@
 ==============================================================
 ## `Task Live Link` : ## https://popular-task-10.vercel.app/
 ==============================================================
-- I am Complete this task using fresh React JS 
+- I am Complete this task using  React JS 
 ## `how to Run My Code ?`
 - Clone My Git repository
 - Then Command  Npm   Install
